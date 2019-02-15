@@ -1,0 +1,10 @@
+/* General */
+body {
+    margin: 0;
+}
+
+/* Header */
+body header .main img {
+    width: 100%;
+    vertical-align: top;
+}
